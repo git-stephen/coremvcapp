@@ -6,6 +6,8 @@ bin
 obj
 packages
 
+.vscode/
+
 # ignore compiled files
 *.com
 *.class
